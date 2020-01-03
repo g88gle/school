@@ -1,2 +1,2 @@
-# school
+# Laravel Database Migrations
  
